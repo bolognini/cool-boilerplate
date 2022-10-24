@@ -25,5 +25,4 @@ yarn && yarn dev
 * [Emotion](https://emotion.sh/docs/introduction) - CSS in JS library
 * [Husky](https://github.com/typicode/husky) - Git Hooks lib
 * [ESLint](https://eslint.org/) - JavaScript Linter
-* [Netlify](https://www.netlify.com/) - For CI/CD and deployment
 * [Flaticon](https://www.flaticon.com/) - For theme icons
