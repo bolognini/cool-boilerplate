@@ -3,7 +3,6 @@
 <p align="center"><img src="public/logo.png" alt="A silly logo" width="60"></p>
 <p align="center">&laquo;<b>An already out-of-date boilerplate for playing around</b>&raquo;</p>
 <br />
-<br />
 
 ## Description
 
