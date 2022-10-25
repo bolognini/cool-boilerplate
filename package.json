@@ -7,10 +7,9 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "test": "jest --watch"
-  },
-  "lint-staged": {
-    "**/*": "prettier --write --ignore-unknown"
+    "test": "jest --watch",
+    "prepare": "husky install",
+    "format": "prettier --write --ignore-unknown"
   },
   "dependencies": {
     "@emotion/react": "^11.10.4",

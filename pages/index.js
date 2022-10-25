@@ -2,6 +2,7 @@
 import Head from 'next/head';
 
 const Home = () => {
+  console.error('asasa');
   return (
     <div data-testid="home" css={styles.container}>
       <Head>
