@@ -1,5 +1,5 @@
 /** @jsxImportSource @emotion/react */
-import Link from 'next/link'
+import Link from 'next/link';
 
 const FourOhFour = () => {
   return (
@@ -7,13 +7,12 @@ const FourOhFour = () => {
       <main css={styles.main}>
         <h1>404 - Page Not Found</h1>
         <Link href="/">
-          <a style={styles.link}>
-            Go back home
-          </a>
+          <a style={styles.link}>Go back home</a>
         </Link>
       </main>
     </div>
-  )}
+  );
+};
 
 const styles = {
   container: {
@@ -34,6 +33,6 @@ const styles = {
     textAlign: 'center',
     color: 'orange',
   },
-}
+};
 
 export default FourOhFour;
