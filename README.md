@@ -23,9 +23,9 @@ yarn && yarn dev
 
 ### Built With
 
-* [Next.js](https://nextjs.org/) - A popular React Framework
-* [Emotion](https://emotion.sh/docs/introduction) - CSS in JS library
-* [Husky](https://github.com/typicode/husky) - Git Hooks lib
-* [ESLint](https://eslint.org/) - JavaScript Linter
-* [Netlify](https://www.netlify.com/) - For CI/CD and deployment
-* [Flaticon](https://www.flaticon.com/) - For theme icons
+- [Next.js](https://nextjs.org/) - A popular React Framework
+- [Emotion](https://emotion.sh/docs/introduction) - CSS in JS library
+- [Husky](https://github.com/typicode/husky) - Git Hooks lib
+- [ESLint](https://eslint.org/) - JavaScript Linter
+- [Netlify](https://www.netlify.com/) - For CI/CD and deployment
+- [Flaticon](https://www.flaticon.com/) - For theme icons
